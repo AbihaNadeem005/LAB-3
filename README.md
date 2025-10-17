@@ -1,3 +1,3 @@
 # LAB-3
-This line was added remotely from GitHub.
-This line was added locally.
+This line was updated locally at the same time.
+This line was updated remotely again.
