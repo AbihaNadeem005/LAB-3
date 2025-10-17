@@ -1,3 +1,1 @@
-echo "File A content" > textfiles/a.txt
-echo "File B content" > textfiles/b.txt
-echo "File C content" > textfiles/c.txt
+
